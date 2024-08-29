@@ -1,0 +1,11 @@
+
+
+
+
+nome = "Alisson"
+idade = 38
+
+print(f"Meu nome é {nome} e tenho {idade} anos!")
+
+if idade >= 18:
+	print("Maior idade")
